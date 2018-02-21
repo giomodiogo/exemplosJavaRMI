@@ -23,4 +23,4 @@ Comando:  **rmiregistry 9876** (porta opcional, no entanto, deve ser a mesma def
 - Executar Servidor (método main).
 - Executar Cliente  (método main).
 
-**Obs: **Para executar os projetos em computadores diferentes, alterar o host (IP) e port (porta) do **LocateRegistry.getRegistry** do Servidor e Cliente.
+**Obs:** Para executar os projetos em computadores diferentes, alterar o host (IP) e port (porta) do **LocateRegistry.getRegistry** do Servidor e Cliente.
